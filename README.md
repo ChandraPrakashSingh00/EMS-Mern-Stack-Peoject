@@ -9,7 +9,8 @@ A fully functional **Employee Management System** built with the **MERN stack (M
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](https://raw.githubusercontent.com/your-username/EMS-Mern-Stack-Project/main/assets/dashboard.png)
+![Dashboard](![Employee Mangement System Images](https://github.com/user-attachments/assets/1748d3a6-7808-4290-b720-6d4a33084972)
+)
 <!-- Replace with your actual image path or GitHub hosted raw URL -->
 
 ---
